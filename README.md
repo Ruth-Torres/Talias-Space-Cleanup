@@ -8,7 +8,7 @@ The main objective of the game is to collect as much space junk as possible to k
 
 ## Credits
 - Tool for creating own animations: https://libresprite.github.io/#!/
-- Game backgound image: https://www.reddit.com/r/PixelArt/comments/f1wg26/space_background/?rdt=56943
+- Game background image: https://www.reddit.com/r/PixelArt/comments/f1wg26/space_background/?rdt=56943
 - Background Scroll: https://www.youtube.com/watch?v=TUBC3lyyB24
 - Import animated characters to Unity: https://www.youtube.com/watch?v=gLObTgbwazE
 - Add movement to a character: https://www.youtube.com/watch?v=d9bcmvr_Me4
